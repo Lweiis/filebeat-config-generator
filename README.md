@@ -1,0 +1,1 @@
+# filebeat-config-generator
